@@ -5,7 +5,7 @@ body {
 	min-height: 100vh;
 	margin: 0;
 	text-align: center;
-	background: #a7525d;
+	background: <#a7525d>
 }
 button {
 	padding: 0.6rem 1.2rem;
